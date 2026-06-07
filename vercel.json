@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd etudezip && npm run build",
+  "outputDirectory": "etudezip/.next",
+  "framework": "nextjs",
+  "installCommand": "cd etudezip && npm install"
+}
